@@ -25,8 +25,8 @@ This project is a simple React application designed to assist the medical staff 
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/NikosMav/React-Patient-Contact-App
+cd React-Patient-Contact-App
 # Install dependencies for the server
 npm install
 # Install dependencies for the client
