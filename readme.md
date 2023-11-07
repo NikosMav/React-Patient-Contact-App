@@ -60,10 +60,6 @@ curl -X POST localhost:8081/contacts \
     -H 'Content-Type: application/json'
 ```
 
-## Contributing
-
-Contributions to the Generograd Medical Center Contact Management project are welcome. Please ensure to update tests as appropriate.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
